@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\ALOGARITMA\P3\KonvresiSuhuCelcius\main.cpp(16,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\ALOGARITMA\P3\KonvresiSuhuCelcius\main.cpp(17,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  KonvresiSuhuCelcius.vcxproj -> D:\ALOGARITMA\P3\x64\Debug\KonvresiSuhuCelcius.exe
